@@ -100,7 +100,7 @@ namespace Shopping_Cart.Service
                     Console.WriteLine();
                     foreach (var p in products)
                         p.DisplayInfo();
-                    filteredProducts = products;
+                    //filteredProducts = products;
                 }
             }
 
